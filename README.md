@@ -1,4 +1,62 @@
-## Hi there 👋
+## 👋 Hello!! My name is Thayakorn Koomphai!!
+
+I'm a Web Developer and Mobile Developer, I love to learn about new things! .
+* 🌏 I'm live in Bangkok
+* 📡 You can contact me to my Email twayakorn08@gmail.com
+* 💻 I have extensive experience in various programming languages and frameworks, including React, JavaScript, TypeScript, Next.js and Etc.
+
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+</p>
+
+
+<hr/>
+
+
+## 📱 Social Media
+
+
+<p align="left">
+  <a href="https://github.com/6652410026ThayakornKoomphai" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  </a>
+  <a href="https://discord.com/users/311153310809980929" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.facebook.com/w.will.thayakorn/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+
+<hr/>
+
+
+## 📊 Development Insights & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6652410026ThayakornKoomphai&layout=compact&theme=radical&hide_title=false&langs_count=10&v=1" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=6652410026ThayakornKoomphai&show_icons=true&theme=radical&rank_icon=github&v=1" alt="Overall Stats" />
+</p>
 
 <!--
 **6652410026ThayakornKoomphai/6652410026ThayakornKoomphai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
