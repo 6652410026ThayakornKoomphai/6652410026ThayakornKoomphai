@@ -48,27 +48,10 @@ I'm a Web Developer and Mobile Developer, I love to learn about new things! .
 <hr/>
 
 
+
 ## 📊 Development Insights & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6652410026ThayakornKoomphai&layout=compact&theme=radical&hide_title=false&langs_count=10&v=1" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=6652410026ThayakornKoomphai&layout=compact&theme=vision-friendly-dark&hide_title=false&langs_count=10" alt="Top Languages" height="192px" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=6652410026ThayakornKoomphai&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true" alt="Overall Stats" height="192px" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6652410026ThayakornKoomphai&show_icons=true&theme=radical&rank_icon=github&v=1" alt="Overall Stats" />
-</p>
-
-<!--
-**6652410026ThayakornKoomphai/6652410026ThayakornKoomphai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
